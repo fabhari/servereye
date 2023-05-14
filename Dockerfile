@@ -1,6 +1,13 @@
 FROM python:3.9-slim-buster
-RUN apt-get update && \
-    apt-get install -y libgthread-2.0-dev libsm6 libxext6 libxrender-dev libgl1-mesa-glx tk
+RUN apt-get update && apt-get install -y \
+    libglib2.0-dev \
+    libsm6 \
+    libxrender-dev \
+    libxext6 \
+    tk \
+    libgl1-mesa-glx \
+    libgtk2.0-dev
+
 # Set the working directory inside the container
 WORKDIR /app
 
