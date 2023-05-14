@@ -10,7 +10,7 @@ COPY . /app
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Expose the port that the server will listen on
-EXPOSE 8080
+EXPOSE 8765
 
 # Start the server when the container starts
 CMD ["python", "server.py"]
