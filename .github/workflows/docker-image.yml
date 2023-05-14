@@ -15,7 +15,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag server:$(date +%s)
+      run: docker build . --file Dockerfile --tag serverdock
     
     - name: Run the Docker image
-      run: docker run -p 8765:8765 server:$(date +%s)
+      run: docker run -p 8765:8765 serverdock
