@@ -48,7 +48,6 @@ debugpy==1.6.6
 decorator==5.1.1
 deeplabcut==2.3.0
 deeplabcut-live==1.0.3
-deeplabcut-live-gui==1.0
 Deprecated==1.2.13
 dill==0.3.6
 dlclibrary==0.0.2
