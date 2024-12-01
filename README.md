@@ -28,6 +28,8 @@ The project architecture focuses on:
 Capturing high-quality video input for eye tracking.
 Analyzing complex eye movements through neural networks.
 Presenting the processed data in a user-friendly manner.
+[Eye Defect Tracking  & Analyzing.pdf](https://github.com/user-attachments/files/17970065/Eye.Defect.Tracking.Analyzing.pdf)
+
 Output Data
 The software provides outputs in pixel positions (X, Y) for the following parameters:
 
