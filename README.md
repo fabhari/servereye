@@ -15,7 +15,10 @@
 
 ## Problem Statement
 
-Existing systems face the following challenges:
+Existing systems face the following challenges:![Eye Defect Tracking    Analyzing-images-18](https://github.com/user-attachments/assets/f42a954f-aafc-4e5a-b3d4-c894c1eed55e)
+![Eye Defect Tracking    Analyzing-images-14](https://github.com/user-attachments/assets/224fbab2-73f6-4198-aa95-264f593fae6f)
+![Eye Defect Tracking    Analyzing-images-5](https://github.com/user-attachments/assets/ebc89b51-3e4e-4e2d-bdba-2758754ab567)
+
 
 - Long calibration times.
 - Fixed head positioning requirements.
